@@ -184,6 +184,74 @@ print( largest)   """
 
 
 
+# # 1 - 50
+# i=1
+# while i<=50:
+#     print(i)
+#     i+=1
+
+
+
+# # 50 - 1
+# i=50
+# while i>=1:
+#     print(i)
+#     i-=1
+
+
+
+# # -1 -50
+# i=-1
+# while i>= -50:
+#     print(i)
+#     i-=1
+
+
+
+# # -50 -1 
+# i=-50
+# while i<= -1:
+#     print(i)
+#     i+=1  
+
+
+
+# # odd numbers from 10 - 20
+# i=9
+# while i<=20:
+#     print(i)
+#     i+=2
+
+
+# # even numbers from 50 - 80
+# i=50
+# while i<=80:
+#   print(i)
+#   i+=2
+
+
+
+# # 13
+# i=13
+# while i<=130:
+#   print(i)
+#   i+=13
+
+
+# # keyboard input and print it's table
+# number = int(input("Enter a number to print its table: "))
+# i = 1
+# print( number ,"ki table==> ")
+# while i <= 10:
+#     result = number * i
+#     print(number*i)
+#     i += 1
+
+
+
+
+
+
 
 
 
