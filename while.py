@@ -1,28 +1,3 @@
-'''
-num = int(input("type number  "))
-while num <= 5:
-    print(num)
-    num += 1 '''
-'''
-
-value = int(input("type number  "))
-while value >= 5:
-    print(value)
-    value -= 1'''
-
-
-'''
-a=1
-while a < 10:
-	print(a)
-	a +=1 '''
-
-'''
-a=int(input("type kro sir ji "))
-while a <= 10:
-	print(a)
-	a +=1  '''
-
 """
 while True:
     print("Hello World")
@@ -77,12 +52,15 @@ i=1
 while i<=10:
     print(num*i)
     i+=1 """
+
 """
 num=5
 i=1 
 while i<=10:
     print(num,"*",i,"=",num*i)
-    i+=1  """
+    i+=1
+
+    """
 
 """
 counter=5
@@ -122,8 +100,6 @@ while counter <= 10 :
     print(counter)
     counter +=2 """
 
-
-
 #homawork 25-02-2026
 """
 5=int(input("first number batao "))
@@ -135,6 +111,10 @@ while  largest < 2:
 while largest < 8:
     largest = 8
 print( largest)   """
+
+
+
+
 
 """
 a=int(input("first number batao "))
@@ -181,6 +161,45 @@ if     largest < a:
 if     largest < b:
     largest = b
 print( largest)   """
+
+# counter = 50
+# while counter <=0:
+#   print(counter)
+
+#   counter -=1 
+
+
+
+# # 50 see start 
+# i = 50
+# while i >= 1:
+#     print(i)
+#     i -= 1 
+
+
+# # Counting from -50 up to -1
+# for i in range(-50, 0):
+#     print(i)
+
+# # Initialize the starting point
+# count = -1
+# while count >= -50:
+#     print(count)
+#     count -= 1
+
+# # Starting at the first odd number
+# num = 2
+# while num <= 50:
+#     print(num)
+#     num += 2
+
+
+
+# i = 1
+# while i <= 10:
+#     result = 5 * i
+#     print(f"5 x {i} = {result}")
+#     i += 1
 
 
 
@@ -246,6 +265,124 @@ print( largest)   """
 #     result = number * i
 #     print(number*i)
 #     i += 1
+
+
+# number1=int(input("enter a number"))
+# number2=int(input("enter a number"))
+# number3=int(input("enter a number"))
+# number4=int(input("enter a number"))
+# number5=int(input("enter a number"))
+
+# sum=number1+number2+number3+number4+number5
+# print(sum)
+
+
+
+# counter=1
+
+# while counter<=5:
+#     number1=int(input("enter a number "))
+#     number2=int(input("enter a number "))
+#     number3=int(input("enter a number "))
+#     number4=int(input("enter a number "))
+#     number5=int(input("enter a number "))
+#     sum=number1+ number2+number3+number4+number5
+#     print(sum)
+#     counter+=1
+    
+
+# counter=1
+# sum=0
+# while counter<=5:
+
+#     number1=int(input("enter a number "))
+
+#     sum = sum + number1
+
+#     print(sum)
+#     counter+=1
+
+
+# #unlimited proper calculater
+# counter=1
+# sum=0
+# while counter<=5:
+
+#     number1=int(input("enter a number "))
+
+#     sum = sum + number1
+
+#     print(sum)
+#     counter-=1
+
+#homework==>6-03-2026
+
+# counter=1
+
+# while counter<=10:
+#     print("*"*counter)
+#     counter+=1
+
+# counter=10
+# while counter >= 1:
+#     print("*" * counter)
+#     counter -= 1
+
+# counter=7
+# while counter >= 1:
+#     print(str(counter) * counter)
+#     counter -= 1
+
+# counter=1
+# while counter <= 7:
+#     print(str(counter) * counter)
+#     counter += 1
+
+
+##multiply
+# counter=1
+# sum= 1
+# while counter<=5:
+
+#     number1=int(input("enter a number "))
+
+#     sum = sum * number1
+
+#     print(sum)
+#     counter+=1
+
+
+# counter=1
+# sum=0
+# while counter<=5:
+
+#     number1=int(input("enter a number "))
+
+#     sum = sum + number1
+
+#     print(sum)
+#     counter+=1
+
+#Give me sum of all the numbers from 1 to 5:
+# counter = 1
+# sum = 0
+
+# while counter <= 5:
+#     sum = sum + counter
+#     counter += 1
+# print(sum)
+
+
+## Give me multiply of all the numbers from 1 to 5:
+counter = 1
+sum = 1
+while counter <= 5:
+    sum = sum * counter
+    counter += 1
+print(sum)
+
+
+
 
 
 
