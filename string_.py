@@ -16,15 +16,13 @@
 
 
 
-
-
 ##start ,end,difference
-i="0123456789"
+# i="0123456789"
 # print(i [: :2])
 # print(i [: :-1])
 # print(i [: :-2])
 # print(i [2: 7:2])
-print(i [-9: -2:2])
+# print(i [-9: -2:2])
 
 ##lenth kee leyee 
 # i="hello virat "
@@ -56,6 +54,52 @@ print(i [-9: -2:2])
 #space ko hatane kee leye (remove)
 # a="  hello sir    "
 # print(a.strip())
+
+# my_string="--sahil kumawat--"
+# print(my_string.strip("-"))
+
+
+# my_string="--sahil--kumawat--"
+# print(my_string.strip("-"))
+
+# my_string="--sahil--kumawat***--"
+# print(my_string.strip("-*"))
+
+
+# my_string="--sahil--kumawat***--"
+# print(my_string.lstrip("-"))
+
+# my_string="--sahil--kumawat***--"
+# print(my_string.rstrip("-"))
+
+
+# my_string="sahil--kumawat***--"
+# print(my_string.startswith("sahil"))
+
+
+
+# my_string="sahil--kumawat***--"
+# print(my_string.startswith("ahil"))
+
+
+
+# my_string="sahil--kumawat bye."
+# print(my_string.endswith("bye."))
+
+
+# #justifiy the string
+# print("acbsabs".rjust(100," "))
+
+# print("acbsabs".rjust(10,"+"))
+
+# print("acbsabs".ljust(10,"+"))
+
+
+
+# my_string="sahil--kumawat bye."
+# print(my_string.replace("s", "S"))
+
+
 
 
 # test="hii hello virat kumawat "
@@ -123,13 +167,6 @@ print(i [-9: -2:2])
 # while counter < length:
 #     print(a[counter])
 #     counter+=1
-
-
-
-
-
-
-
 
 
 
