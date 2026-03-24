@@ -1,5 +1,5 @@
 # #sliceing
-
+   
 
 # string="computer"
 # print(string[:7])
