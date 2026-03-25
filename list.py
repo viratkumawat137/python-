@@ -1,5 +1,5 @@
 # # vowel print kerwane kee leye 
-# a="i live in jaipur"
+# a="i live in jaipur"    
 # length=len(a)
 # counter = 0
 # while counter < length:
