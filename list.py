@@ -46,3 +46,137 @@
 a=[ 12, 12, False, "virat", True ]
 print(a[3][1])
 
+
+
+# a=[[[[137]]]]
+# print(a[0] [0][0][0])
+
+
+# a=["virat",
+#    25,
+#    "jaipur",
+#    303830,
+#    ["test",34,[47689,[635856]]]
+#    ]
+
+# print(a[-1][-1][-1][-1])
+
+# a=["virat",
+#    25,
+#    "jaipur",
+#    303830,
+#    ["test",34,[47689,[635856]]]
+#    ]
+
+# print(a[-1][-1][-1][-1][-1])
+
+
+# refrence verible
+# a=["sdf",1,2,3,4,6,8]
+# b=a
+# print(a,b)
+# b[0] = "virat"
+# print(a,b)
+
+
+
+#sliceing
+# number=[0,1,2,3,4,5,6,7,8,9]
+# print (number[ : ])
+# print ( f"slice [2:6]:{number[2:6]}")
+# print ( f"slice [:6]:{number[:6]}")
+# print ( f"slice [2:]:{number[2:]}")
+# print ( f"slice [-1: :-1]:{number[: :-1]}")
+# print ( f"slice [2:7:2]:{number[2: 7:2]}")
+# print ( f"slice [: :2]:{number[: :2]}")
+# print ( f"slice [-8:-1:2]:{number[-8: -1:2]}")
+
+# homework 
+# numbers = [123, 34, 5, 23, 5, 23, 566, 88, 98]
+# print(numbers[-3: -8 : -2])
+
+
+
+# a=["graps","mango","orange","cherry"]
+# a[1]="date"
+# print(f" total item :{a}")
+
+# print(a[1:3])
+# print(a[1][1:3])
+
+
+# list1=[1,2,3,4,5,]
+# list2=[6,7,8,9,10]
+# list3=list1+list2
+# print(list3)
+
+# print(list1*2)
+
+#memebership opratores
+# a=[1,2,9,7,5,6, [4,3,5,2]]
+# print(3 in a[-1])
+
+
+#identy  oprators
+# a=[1,2,3,4,5]
+# b=[1,2,3,4,5]
+# c=a
+
+# print(a is b)
+# print(a is c)
+# print( c is not a)
+# print( a is not b)
+
+
+# a=["apple","banana","cherry"]
+#apeend
+# a.append("orange")
+# print(a)
+
+
+#insert
+# a.insert(1,"orange")
+# print(a)
+
+# a.insert(-1,"orange")
+# print(a)
+
+
+# a.insert(6,"orange")
+# print(a)
+# a=["apple","banana","cherry","banana"]
+#remove
+# a.remove("banana")
+# print(a)
+
+# a = "virat"
+# del a[1]
+# print(a)
+
+
+# a = "virat"
+# del a
+# print(a)
+
+
+# a=["apple","banana","cherry","banana"]
+# # a.pop(1)
+# # a.pop()
+# print(a.pop(1))
+# print(a)
+
+#sort
+# a=[1,9,2,3,4,5,8,7,6]
+# a.sort( reverse=True)
+# a.sort( reverse=True)
+# print(a)
+
+
+
+
+
+
+
+
+
+
