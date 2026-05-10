@@ -1,5 +1,5 @@
 '''a=int(input("enter your age"))
-if a >= 18:
+if a >= 18:                                                 
 	print("you are eligible for vote")
 	print("thank you")
 else:
@@ -10,7 +10,7 @@ else:
 
 b=int(input("enter your amount"))
 
-if b >=100:
+if b >=100:       
 	print("You can withdraw Rupees")
 else:
 	print("you can not withdraw rupess")                                                
