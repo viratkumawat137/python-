@@ -1,7 +1,7 @@
 '''a=int(input("enter your age"))
 if a >= 18:                                                 
 	print("you are eligible for vote")
-	print("thank you")
+	print("thank you")          
 else:
 	print("you are not eligible for vote")
 	print("Come back when you're eligible ")   '''
