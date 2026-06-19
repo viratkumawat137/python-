@@ -1,7 +1,7 @@
 # a=[1,2,3,4,5,6,-32,-34,5,34,]
 # sum      
 # print(sum(a))
-
+      
 
 # min
 # print(min(a))
