@@ -2,7 +2,9 @@
 # a=open("for_loop.py")
 # print(type(a))
 
-# a=open("for_loop.py")
+# a=open("for_loop.py")          
+
+
 # print(dir(a))                    
 
 
