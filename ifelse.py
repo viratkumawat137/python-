@@ -4,7 +4,7 @@ if a >= 18:
 	print("thank you")          
 else:
 	print("you are not eligible for vote")
-	print("Come back when you're eligible ")   '''
+	print("Come back when you're eligible ")   '''                                                    
 
 ###
 
