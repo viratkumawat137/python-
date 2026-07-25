@@ -1,9 +1,9 @@
-#comprasion oprAters
+ #comprasion oprAters
 #print(13>9)
 #print(18==18)
 #print(12<3)                                              
 
-"""
+"""                                 
 a=74                          
 a+=5
 print(a)
