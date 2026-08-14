@@ -6,6 +6,6 @@
 #a=input("hello world aapka name kya h ")
 #a=int(a)
 
-#print(a)
+#print(a)                                  
 #print(type(a))
 print(2+5)             
