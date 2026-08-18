@@ -10,7 +10,7 @@ print(a)
 a-=7         
 print(a)"""
 
-"""
+"""                                                 
 b=15
 b-=10
 print(b)
