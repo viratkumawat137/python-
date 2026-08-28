@@ -4,4 +4,4 @@ print("hello\f world")=form feed
 print("hello\t world")=hello world 
 print("helloo\b world")=backspace==>hello
 print("hello\a world")=beep sound
-print("hello\\ world")=backslase==>/
+print("hello\\ world")=backslase==>/                            
