@@ -16,7 +16,7 @@
 # while counter < length:
 #     if a [counter] in "ieouaAIEOU":
 #       counter += 1
-# sum +=1
+# sum +=1                                     
 # print(sum)
 
 
