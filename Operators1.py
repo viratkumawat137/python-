@@ -2,13 +2,13 @@
 #print(13>9)
 #print(18==18)
 #print(12<3)                                                              
-                                                                                         
+                                                                                                                                                  
 """                                 
 a=74                                                      
 a+=5                                       
 print(a)
 a-=7         
-print(a)"""
+print(a)"""                                  
 
 """                                                 
 b=15
