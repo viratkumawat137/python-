@@ -6,7 +6,7 @@
 """                                 
 a=74                                                      
 a+=5                                       
-print(a)
+print(a)                                       
 a-=7         
 print(a)"""                                  
 
