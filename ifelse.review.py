@@ -1,6 +1,6 @@
 '''a = int(input("Enter a number: "))
 if a >= 10:
-    print(True)
+    print(True)                                     
 else:
     print(False)'''             
 
