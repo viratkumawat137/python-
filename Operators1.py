@@ -1,5 +1,5 @@
  #comprasion oprAters
-#print(13>9)
+#print(13>9)                     
 #print(18==18)
 #print(12<3)                                                              
                                                                                                                                                                        
