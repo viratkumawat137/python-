@@ -4,7 +4,7 @@ a=int(a)
 b=int(b)                                                                                                                                                                                       
 print(a+b)'''                                                                                                             
                                                                                                    
-
+                      
 '''a=input("some word write")                                                                                                                                          
 b=input("some word write")                                  
 a=int(a)
